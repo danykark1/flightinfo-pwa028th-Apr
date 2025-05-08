@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/flightinfo-pwa028th-Apr/static/css/main.e6c13ad2.css",
+    "main.js": "/flightinfo-pwa028th-Apr/static/js/main.b73fa9da.js",
+    "static/js/359.f84bffa1.chunk.js": "/flightinfo-pwa028th-Apr/static/js/359.f84bffa1.chunk.js",
+    "static/js/488.fd50b34a.chunk.js": "/flightinfo-pwa028th-Apr/static/js/488.fd50b34a.chunk.js",
+    "service-worker.js": "/flightinfo-pwa028th-Apr/service-worker.js",
+    "index.html": "/flightinfo-pwa028th-Apr/index.html",
+    "main.e6c13ad2.css.map": "/flightinfo-pwa028th-Apr/static/css/main.e6c13ad2.css.map",
+    "main.b73fa9da.js.map": "/flightinfo-pwa028th-Apr/static/js/main.b73fa9da.js.map",
+    "359.f84bffa1.chunk.js.map": "/flightinfo-pwa028th-Apr/static/js/359.f84bffa1.chunk.js.map",
+    "488.fd50b34a.chunk.js.map": "/flightinfo-pwa028th-Apr/static/js/488.fd50b34a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b73fa9da.js"
+  ]
+}
